@@ -4,3 +4,9 @@
   color: #ff0000;
   /* Add other styles as needed */
 }
+
+.app {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
